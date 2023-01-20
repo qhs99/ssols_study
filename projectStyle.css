@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.navbar {
+	display:flex;
+	align-items:center;
+	padding:18px 18px;
+	justify-content:space-evenly; 
+	display:flex;
+}
+
+.navbar-brand {
+	font-size:24px;
+
+}
+
+.nav nav-tabs {
+	display:flex;
+}
+
+.btn btn-primary {
+	display: flex;
+	flex-wrap: wrap;
+}
+
